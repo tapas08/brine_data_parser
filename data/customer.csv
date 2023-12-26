@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,product_id,product_name,product_price,quantity
+1,c1,1/12/2023,p_1,Product 1,1200,2
+2,c10,1/12/2023,p_1,Product 1,1200, 1
+3,c2,2/12/2023,p_2,Product 2,650,1
+4,c1,3/12/2023,p_3,Product 3,299,3
+5,c5,3/12/2023,p_2,Product 2,650,1
+6,c8,4/12/2023,p_1,Product 1,1200,1
+7,c99,5/12/2023,p_2,Product 2,650,4
+8,c10,5/12/2023,p_5,Product 5,99,1
+9,c10,5/12/2023,p_6,Product 4,199,1
+10,c10,5/12/2023,p_5,Product 3,299,2
